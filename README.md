@@ -10,7 +10,7 @@ Aktualnie intensywnie rozwijam swoje umiejętności w tworzeniu nowoczesnych, pe
 - ⚙️ Rozwijam zaplecze serwerowe i API przy pomocy **Node.js**.
 - 🗄️ Projektuję relacyjne bazy danych i swobodnie korzystam z **PostgreSQL / SQL**.
 - 🧠 Aktywnie wykorzystuję narzędzia AI do optymalizacji kodu, nauki i pair programmingu.
-- 🌱 Aktualnie pracuję nad: [Tutaj wpisz nazwę swojego projektu]
+- 🌱 Aktualnie pracuję nad: ...
 
 ### 🛠️ Mój Tech Stack
 
@@ -32,7 +32,7 @@ Aktualnie intensywnie rozwijam swoje umiejętności w tworzeniu nowoczesnych, pe
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/github%20copilot-%23181717.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Narzędzia:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
